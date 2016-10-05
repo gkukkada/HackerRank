@@ -5,6 +5,10 @@ import java.util.List;
 import java.util.Scanner;
 import java.util.StringTokenizer;
 
+
+/*
+ * https://www.hackerrank.com/challenges/java-list
+*/
 public class ListQueries {
 
 	public static void main(String[] args) {
