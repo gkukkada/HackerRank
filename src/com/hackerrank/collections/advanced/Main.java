@@ -13,7 +13,7 @@ public class Main {
 		Iterator it = mylist.iterator();
 		while (it.hasNext()) {
 			Object element = it.next();
-			if (element instanceof String) {// Hints: use instanceof operator
+			if (element instanceof String) {
 				break;
 			}
 		}
