@@ -21,6 +21,7 @@ public class HashSetPairs {
 			pair_right[i] = s.next();
 		}
 		
+		// TODO: Do the duplication 
 		Map<String, String> map = new HashMap<String, String>();
 		String output = "";
 		for (int i = 0; i < t; i++) {
