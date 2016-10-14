@@ -1,4 +1,8 @@
 # HackerRank
 
+Solutions for HackRank problems.
 
-Work in Progress
+Java Advanced.
+Data Structures.
+Java Collections.
+Java Core.
